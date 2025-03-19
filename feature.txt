@@ -1,0 +1,2 @@
+Learnt how to install; use Git and GitHub version control.
+Furthermore, Creating branches and how to merge them to the main.
