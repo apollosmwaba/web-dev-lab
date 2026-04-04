@@ -1,0 +1,51 @@
+```
+# Compiled and build artifacts
+*.pyc
+__pycache__/
+*.o
+*.obj
+dist/
+build/
+*.class
+*.exe
+*.dll
+*.so
+*.a
+*.out
+
+# Dependencies
+vendor/
+node_modules/
+.env
+.env.local
+.env.*
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Editors
+.vscode/
+.idea/
+
+# Coverage
+.coverage
+coverage/
+htmlcov/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Cache
+.cache/
+.mypy_cache/
+.pytest_cache/
+```
